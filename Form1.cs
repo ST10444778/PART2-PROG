@@ -68,6 +68,10 @@ namespace CyberSecurityChatbotGUI2
             {
                 DisplayBotMessage("Two-factor authentication adds an extra layer of security to your accounts.");
             }
+            else if (userInput.Contains("safe browsing"))
+            {
+                DisplayBotMessage("Safe browsing means checking links carefully and avoiding suspicious websites.");
+            }
             else
             {
                 DisplayBotMessage("I didn't understand that. Try asking something else.");

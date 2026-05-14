@@ -1,0 +1,11 @@
+C:\Users\lab_services_student\source\repos\CyberSecurityChatbotGUI2\CyberSecurityChatbotGUI2\bin\Debug\CyberSecurityChatbotGUI2.exe.config
+C:\Users\lab_services_student\source\repos\CyberSecurityChatbotGUI2\CyberSecurityChatbotGUI2\bin\Debug\CyberSecurityChatbotGUI2.exe
+C:\Users\lab_services_student\source\repos\CyberSecurityChatbotGUI2\CyberSecurityChatbotGUI2\bin\Debug\CyberSecurityChatbotGUI2.pdb
+C:\Users\lab_services_student\source\repos\CyberSecurityChatbotGUI2\CyberSecurityChatbotGUI2\obj\Debug\CyberSecurityChatbotGUI2.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\CyberSecurityChatbotGUI2\CyberSecurityChatbotGUI2\obj\Debug\CyberSecurityChatbotGUI2.Form1.resources
+C:\Users\lab_services_student\source\repos\CyberSecurityChatbotGUI2\CyberSecurityChatbotGUI2\obj\Debug\CyberSecurityChatbotGUI2.Properties.Resources.resources
+C:\Users\lab_services_student\source\repos\CyberSecurityChatbotGUI2\CyberSecurityChatbotGUI2\obj\Debug\CyberSecurityChatbotGUI2.csproj.GenerateResource.cache
+C:\Users\lab_services_student\source\repos\CyberSecurityChatbotGUI2\CyberSecurityChatbotGUI2\obj\Debug\CyberSecurityChatbotGUI2.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\CyberSecurityChatbotGUI2\CyberSecurityChatbotGUI2\obj\Debug\CyberSecurityChatbotGUI2.exe
+C:\Users\lab_services_student\source\repos\CyberSecurityChatbotGUI2\CyberSecurityChatbotGUI2\obj\Debug\CyberSecurityChatbotGUI2.pdb
+C:\Users\lab_services_student\source\repos\CyberSecurityChatbotGUI2\CyberSecurityChatbotGUI2\bin\Debug\greeting.wav

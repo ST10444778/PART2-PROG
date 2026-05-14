@@ -60,6 +60,10 @@ namespace CyberSecurityChatbotGUI2
             {
                 DisplayBotMessage("Scams often try to trick you into giving personal or banking information.");
             }
+            else if (userInput.Contains("vpn"))
+            {
+                DisplayBotMessage("A VPN helps protect your privacy on public networks.");
+            }
             else
             {
                 DisplayBotMessage("I didn't understand that. Try asking something else.");

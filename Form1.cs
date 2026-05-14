@@ -72,6 +72,10 @@ namespace CyberSecurityChatbotGUI2
             {
                 DisplayBotMessage("Safe browsing means checking links carefully and avoiding suspicious websites.");
             }
+            else if (userInput.Contains("firewall"))
+            {
+                DisplayBotMessage("A firewall helps block unauthorized access to your computer or network.");
+            }
             else
             {
                 DisplayBotMessage("I didn't understand that. Try asking something else.");

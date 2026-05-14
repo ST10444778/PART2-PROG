@@ -64,6 +64,10 @@ namespace CyberSecurityChatbotGUI2
             {
                 DisplayBotMessage("A VPN helps protect your privacy on public networks.");
             }
+            else if (userInput.Contains("2fa"))
+            {
+                DisplayBotMessage("Two-factor authentication adds an extra layer of security to your accounts.");
+            }
             else
             {
                 DisplayBotMessage("I didn't understand that. Try asking something else.");

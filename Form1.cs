@@ -56,6 +56,10 @@ namespace CyberSecurityChatbotGUI2
             {
                 DisplayBotMessage("Curiosity is great! Learning cybersecurity helps keep you safe online.");
             }
+            else if (userInput.Contains("scam"))
+            {
+                DisplayBotMessage("Scams often try to trick you into giving personal or banking information.");
+            }
             else
             {
                 DisplayBotMessage("I didn't understand that. Try asking something else.");
